@@ -166,7 +166,7 @@ textarea {
   -webkit-appearance: none;
 }
 .button:hover, .button:focus {
-  background: red;
+  background: yellow;
 }
 
 .button-block {
